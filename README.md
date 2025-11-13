@@ -1,2 +1,2 @@
-# DeFT-LoRA
-Offical code for DeFT-LoRA (Accepted by AAAI2026)
+# DeFT-LoRA [AAAI=206]
+Coming soon~
