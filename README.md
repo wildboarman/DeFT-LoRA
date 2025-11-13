@@ -1,2 +1,2 @@
-# DeFT-LoRA [AAAI=206]
+# DeFT-LoRA [AAAI-206]
 Coming soon~
